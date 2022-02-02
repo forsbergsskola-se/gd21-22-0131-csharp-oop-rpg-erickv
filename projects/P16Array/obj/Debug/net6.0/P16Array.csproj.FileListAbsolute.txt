@@ -1,0 +1,15 @@
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\bin\Debug\net6.0\P16Array.exe
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\bin\Debug\net6.0\P16Array.deps.json
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\bin\Debug\net6.0\P16Array.runtimeconfig.json
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\bin\Debug\net6.0\P16Array.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\bin\Debug\net6.0\ref\P16Array.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\bin\Debug\net6.0\P16Array.pdb
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.csproj.AssemblyReference.cache
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.AssemblyInfoInputs.cache
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.AssemblyInfo.cs
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.csproj.CoreCompileInputs.cache
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\ref\P16Array.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.pdb
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P16Array\obj\Debug\net6.0\P16Array.genruntimeconfig.cache
