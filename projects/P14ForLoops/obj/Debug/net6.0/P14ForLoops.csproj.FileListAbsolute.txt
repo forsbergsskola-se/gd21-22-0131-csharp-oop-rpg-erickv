@@ -1,0 +1,15 @@
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\bin\Debug\net6.0\P14ForLoops.exe
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\bin\Debug\net6.0\P14ForLoops.deps.json
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\bin\Debug\net6.0\P14ForLoops.runtimeconfig.json
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\bin\Debug\net6.0\P14ForLoops.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\bin\Debug\net6.0\ref\P14ForLoops.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\bin\Debug\net6.0\P14ForLoops.pdb
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.csproj.AssemblyReference.cache
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.AssemblyInfoInputs.cache
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.AssemblyInfo.cs
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\ref\P14ForLoops.dll
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.pdb
+C:\Users\soder\Documents\GitHub\gd21-22-0131-csharp-oop-rpg-erickv\projects\P14ForLoops\obj\Debug\net6.0\P14ForLoops.genruntimeconfig.cache
