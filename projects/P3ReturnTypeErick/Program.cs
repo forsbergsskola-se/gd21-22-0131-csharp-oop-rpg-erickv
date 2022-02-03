@@ -2,33 +2,26 @@
 {
     class Program
     {
-        static int next = 0;
-        static int prev = 0;
         static void Main()
         {
             
             Console.Write("Which Fibonacci Number do you want? ");
             int pos = Convert.ToInt32(Console.ReadLine());
-            double result = Fibonacci(pos);
-            Console.WriteLine(result);
+            int result = Fibonacci(pos);
+            Console.WriteLine($"Fibonacci Number {pos} has the value: {result}");
         }
 
        static int Fibonacci(int position)
-        {
+       {
+           int a = 0;
+           int b = 1;
             for (int i = 0; i < position; i++)
             {
-                if (next == 0)
-                {
-                    next = 1;
-                }
-                else
-                {
-                    int temp = next;
-                    next = next + prev;
-                    prev = temp;
-                }
+                int temp = a;
+                a = b;
+                b += temp;
             }
-            return next;
+            return a;
         }
     }
 }
