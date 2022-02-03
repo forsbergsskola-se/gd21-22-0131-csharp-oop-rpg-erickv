@@ -1,0 +1,15 @@
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.csproj.AssemblyReference.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.AssemblyInfoInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.AssemblyInfo.cs
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.csproj.CoreCompileInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\bin\Debug\net6.0\P1MethodsErick.exe
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\bin\Debug\net6.0\P1MethodsErick.deps.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\bin\Debug\net6.0\P1MethodsErick.runtimeconfig.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\bin\Debug\net6.0\P1MethodsErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\bin\Debug\net6.0\ref\P1MethodsErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\bin\Debug\net6.0\P1MethodsErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\ref\P1MethodsErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1MethodsErick\obj\Debug\net6.0\P1MethodsErick.genruntimeconfig.cache
