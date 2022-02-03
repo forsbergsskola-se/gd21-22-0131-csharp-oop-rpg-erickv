@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\projects\\P1MethodsPetter\\P1MethodsPetter.csproj": {}
+    "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\P1MethodsPetter\\P1MethodsPetter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\projects\\P1MethodsPetter\\P1MethodsPetter.csproj": {
+    "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\P1MethodsPetter\\P1MethodsPetter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\projects\\P1MethodsPetter\\P1MethodsPetter.csproj",
+        "projectUniqueName": "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\P1MethodsPetter\\P1MethodsPetter.csproj",
         "projectName": "P1MethodsPetter",
-        "projectPath": "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\projects\\P1MethodsPetter\\P1MethodsPetter.csproj",
+        "projectPath": "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\P1MethodsPetter\\P1MethodsPetter.csproj",
         "packagesPath": "C:\\Users\\soder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\projects\\P1MethodsPetter\\obj\\",
+        "outputPath": "C:\\Users\\soder\\Documents\\GitHub\\gd21-22-0131-csharp-oop-rpg-erickv\\P1MethodsPetter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soder\\AppData\\Roaming\\NuGet\\NuGet.Config",
