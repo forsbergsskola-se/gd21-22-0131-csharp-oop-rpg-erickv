@@ -48,7 +48,7 @@
         {
             if (a<b)
             {
-                Console.WriteLine($"\nCounting from {b} to {a}");
+                Console.WriteLine($"\nCounting from {a} to {b}");
                 for(int i = a; i <= b; i++)
                 {
                     Console.WriteLine(i);
