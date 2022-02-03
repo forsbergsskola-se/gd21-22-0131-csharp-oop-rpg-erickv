@@ -4,33 +4,43 @@
  {
   static void Main()
   {
-   int to = 1;
-   CountUp(to);
-   int from = 1;
-   CountDown(from);
-   to = 2;
-   CountUp(to);
-   from = 2;
-   CountDown(from);
-   to = 3;
-   CountUp(to);
-   from = 3;
-   CountDown(from);
+   int from = 2;
+   int to = 3;
+   Count(from, to);
+   from = 100;
+   to = 101;
+   Count(from, to);
+   from = 10;
+   to = 8;
+   Count(from, to);
+   from = 1;
+   to = -1;
+   Count(from, to);
+   from = 1337;
+   to = 1337;
+   Count(from, to);
+   
   }
 
-  static void CountUp(int a)
+  static void Count(int a, int b)
   {
-   for (int i = 0; i <= a; i++)
+   if (a < b)
    {
-    Console.WriteLine(i);
+    Console.WriteLine($"Counting from {a} to {b}");
+    for (int i = a; i <= b; i++)
+    {
+     Console.WriteLine(i);
+    }
    }
-  }
-  static void CountDown(int b)
-  {
-   for (int i = b; i >= 0; i--)
+   else
    {
-    Console.WriteLine(i);
+    Console.WriteLine($"Counting from {a} to {b}");
+    for (int i = a; i >= b; i--)
+    {
+     Console.WriteLine(i);
+    }
    }
+   
   }
  }
 }
