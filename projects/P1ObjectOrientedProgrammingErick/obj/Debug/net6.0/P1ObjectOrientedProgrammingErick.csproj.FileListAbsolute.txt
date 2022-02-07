@@ -1,0 +1,15 @@
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\bin\Debug\net6.0\P1ObjectOrientedProgrammingErick.exe
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\bin\Debug\net6.0\P1ObjectOrientedProgrammingErick.deps.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\bin\Debug\net6.0\P1ObjectOrientedProgrammingErick.runtimeconfig.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\bin\Debug\net6.0\P1ObjectOrientedProgrammingErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\bin\Debug\net6.0\ref\P1ObjectOrientedProgrammingErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\bin\Debug\net6.0\P1ObjectOrientedProgrammingErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.csproj.AssemblyReference.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.AssemblyInfoInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.AssemblyInfo.cs
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.csproj.CoreCompileInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\ref\P1ObjectOrientedProgrammingErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P1ObjectOrientedProgrammingErick\obj\Debug\net6.0\P1ObjectOrientedProgrammingErick.genruntimeconfig.cache
