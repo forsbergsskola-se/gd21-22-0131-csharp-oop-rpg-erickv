@@ -3,12 +3,24 @@
     class Person
     {
         static Person person = new Person();
+        private static string[] name = new string [3];
 
+        static void IntroduceYourself(int pos)
+        {
+            Console.WriteLine("Hello, my name is: " + name[pos]);
+        }
         static void Main()
         {
-            Console.WriteLine(person);
-            Console.WriteLine(Animal.animal);
-            Console.WriteLine(Car.car);
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Give me a name: ");
+                name[i] = Console.ReadLine();
+            }
+
+            for (int i = 0; i < 3; i++)
+            {
+                IntroduceYourself(i);
+            }
         }
     }
 
