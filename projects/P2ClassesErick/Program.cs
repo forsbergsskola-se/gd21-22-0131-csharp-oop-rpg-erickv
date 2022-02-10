@@ -2,34 +2,41 @@
 {
     class Person
     {
-        static Person person = new Person();
-        private static string[] name = new string [3];
+        public string name;
 
-        static void IntroduceYourself(int pos)
+        public void IntroduceYourself()
         {
-            Console.WriteLine("Hello, my name is: " + name[pos]);
-        }
-        static void Main()
-        {
-            for (int i = 0; i < 3; i++)
-            {
-                Console.WriteLine("Give me a name: ");
-                name[i] = Console.ReadLine();
-            }
-
-            for (int i = 0; i < 3; i++)
-            {
-                IntroduceYourself(i);
-            }
+            Console.WriteLine("Hello, my name is: " + name);
         }
     }
 
-    class Animal
+    public class Program
+    {
+        static void Main()
+        {
+            Person[] personList = new Person[3];
+
+            //Console.WriteLine(Animal.animal);
+            //Console.WriteLine(Car.car);
+            for (int i = 0; i < personList.Length; i++)
+            {
+                personList[i] = new Person();
+                Console.WriteLine("Give me a name: ");
+                personList[i].name = Console.ReadLine();
+            }
+
+            foreach (Person person in personList)
+            {
+                person.IntroduceYourself();
+            }
+        }
+    }
+    public class Animal
     {
         public static Animal animal = new Animal();
     }
 
-    class Car
+    public class Car
     {
         public static Car car = new Car();
     }
