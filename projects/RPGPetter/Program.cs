@@ -1,14 +1,24 @@
-﻿static class SuperMath
-{
-    public static float Lerp (float from, float to, float t)
-    {
-        return from + (to - from) * t;
-    }
-}
+﻿
+
+
+
 class Program
 {
+    class Unit
+    {
+        private string name;
+        private int id;
+
+        public Unit(string name)
+        {
+            this.name = name;
+        }
+        
+    }
+    
+    
     public static void Main()
     {
-        Console.WriteLine(SuperMath.Lerp(0,100,0));
+        Unit enemy = new Unit("AllanBallan");
     }
 }
