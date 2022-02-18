@@ -6,6 +6,21 @@
     private int maxHealth;
     private int health;
 
+    public bool IsAlive
+    {
+        get
+        {
+            if (health > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+
     public Unit(string name, int maxHealth)
     {
         Name = name;
@@ -16,6 +31,11 @@
         ReportStatus();
     }
 
+    public void Damage(int value)
+    {
+        Health -= value;
+    }
+
     public void ReportStatus()
     {
         Console.WriteLine($"\nUnit #{id}: {Name} | {health}/{maxHealth} Hp\n");
@@ -23,7 +43,7 @@
 
     public int Health
     {
-        set
+        private set
         {
             health = Math.Clamp(value, 0, maxHealth);
             ReportStatus();
@@ -48,10 +68,10 @@ static class Program
     {
         Unit leet = new Unit("Leet", 1337);
 
-        while (leet.Health > 0)
+        while (leet.IsAlive)
         {
-            Console.WriteLine("What do you want Leet's Health to be?");
-            leet.Health = int.Parse(Console.ReadLine());
+            Console.WriteLine("How much damage you want to deal?");
+            leet.Damage(int.Parse(Console.ReadLine()));
         }
     }
 }
