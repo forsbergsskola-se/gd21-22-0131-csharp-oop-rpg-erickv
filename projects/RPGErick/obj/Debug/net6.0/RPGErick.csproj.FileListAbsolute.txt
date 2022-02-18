@@ -1,0 +1,15 @@
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\bin\Debug\net6.0\RPGErick.exe
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\bin\Debug\net6.0\RPGErick.deps.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\bin\Debug\net6.0\RPGErick.runtimeconfig.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\bin\Debug\net6.0\RPGErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\bin\Debug\net6.0\ref\RPGErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\bin\Debug\net6.0\RPGErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.csproj.AssemblyReference.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.AssemblyInfoInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.AssemblyInfo.cs
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.csproj.CoreCompileInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\ref\RPGErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\RPGErick\obj\Debug\net6.0\RPGErick.genruntimeconfig.cache
