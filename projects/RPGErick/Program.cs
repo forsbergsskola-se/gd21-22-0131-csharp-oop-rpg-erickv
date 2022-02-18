@@ -1,6 +1,6 @@
 ﻿public class Unit
 {
-    public string name;
+    public string Name { get; }
     public int id;
     public static int nextId;
     private int maxHealth;
@@ -8,7 +8,7 @@
 
     public Unit(string name, int maxHealth)
     {
-        this.name = name;
+        Name = name;
         id = nextId++;
 
         this.maxHealth = maxHealth;
@@ -18,7 +18,7 @@
 
     public void ReportStatus()
     {
-        Console.WriteLine($"\nUnit #{id}: {name} | {health}/{maxHealth} Hp\n");
+        Console.WriteLine($"\nUnit #{id}: {Name} | {health}/{maxHealth} Hp\n");
     }
 
     public int Health
