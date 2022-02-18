@@ -48,10 +48,10 @@ static class Program
     {
         Unit leet = new Unit("Leet", 1337);
 
-        for (int i = 0; i <= 2; i++)
+        while (leet.Health > 0)
         {
             Console.WriteLine("What do you want Leet's Health to be?");
-            leet.Health = (int.Parse(Console.ReadLine()));
+            leet.Health = int.Parse(Console.ReadLine());
         }
     }
 }
