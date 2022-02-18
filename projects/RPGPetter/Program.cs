@@ -8,17 +8,34 @@ class Program
     {
         private string name;
         private int id;
-
+        
+        private static int nextId;
+        
         public Unit(string name)
         {
             this.name = name;
+            id = nextId;
+            nextId++;
+            // Make sure, that this is the last line of the constructor
+            ReportStatus();
+            
         }
+
+        public void ReportStatus()
+        {
+            Console.WriteLine("Unit " +id +": " +name);
+        }
+        
         
     }
     
     
     public static void Main()
     {
-        Unit enemy = new Unit("AllanBallan");
+        Unit orri = new Unit(name: "Órri (Wizard)");
+        Unit alfgerdur = new Unit("Alfgérdur (Evil Wizard)");
+        Unit princessBianca = new Unit(name: "Princess Bianca");
+        
+
     }
 }
