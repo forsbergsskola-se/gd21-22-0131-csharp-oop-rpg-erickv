@@ -34,7 +34,11 @@ class Program
         private int health;
         public int Health
         {
-            set
+            get
+            {
+                return health;
+            }
+            private set
             {
                 health = Math.Clamp(value, 0, maxHealth);
                 ReportStatus();
@@ -63,8 +67,12 @@ class Program
         {
             Console.WriteLine("Unit " +id +": " +name +" - " +health +"/" +maxHealth);
         }
+
+        public void Damage(int value)
+        {
+            Health = Health - value;
+        }
     }
-    
     
     public static void Main()
     {
@@ -72,9 +80,9 @@ class Program
         Unit evilReceptionist = new Unit("Evil Receptionist", 30);
         while (evilReceptionist.IsAlive)
         {
-            Console.WriteLine("What value do you want to give Evil Receptionist?");
-            int newHealth = Int32.Parse(Console.ReadLine());
-            evilReceptionist.Health = newHealth; 
+            Console.WriteLine("What damage do you want to make to " +evilReceptionist.Name +"?");
+            int value = Int32.Parse(Console.ReadLine());
+            evilReceptionist.Damage(value);
         }
     }
 }
