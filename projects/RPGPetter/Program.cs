@@ -7,6 +7,14 @@ class Program
     class Unit
     {
         private string name;
+
+        public string Name
+        {
+            get
+            {
+                return name;
+            }   
+        }
         private int id;
         private int maxHealth;
         private int health;
@@ -54,9 +62,10 @@ class Program
         Unit evilReceptionist = new Unit("Evil Receptionist", 30);
         while (evilReceptionist.Health > 0)
         {
+           
             Console.WriteLine("What value do you want to give Evil Receptionist?");
             int newHealth = Int32.Parse(Console.ReadLine());
-            evilReceptionist.Health = newHealth;
+            evilReceptionist.Health = newHealth; 
         }
     }
 }
