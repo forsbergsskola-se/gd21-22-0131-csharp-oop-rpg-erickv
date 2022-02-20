@@ -6,6 +6,20 @@ class Program
 {
     class Unit
     {
+        public bool IsAlive
+        {
+            get
+            {
+                if (health > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+        }
         private string name;
 
         public string Name
@@ -24,10 +38,6 @@ class Program
             {
                 health = Math.Clamp(value, 0, maxHealth);
                 ReportStatus();
-            }
-            get
-            {
-                return health;
             }
         }
         
@@ -60,9 +70,8 @@ class Program
     {
 
         Unit evilReceptionist = new Unit("Evil Receptionist", 30);
-        while (evilReceptionist.Health > 0)
+        while (evilReceptionist.IsAlive)
         {
-           
             Console.WriteLine("What value do you want to give Evil Receptionist?");
             int newHealth = Int32.Parse(Console.ReadLine());
             evilReceptionist.Health = newHealth; 
