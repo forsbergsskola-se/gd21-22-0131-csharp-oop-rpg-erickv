@@ -76,7 +76,6 @@ class Program
     
     public static void Main()
     {
-
         Unit evilReceptionist = new Unit("Evil Receptionist", 30);
         while (evilReceptionist.IsAlive)
         {
