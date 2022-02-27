@@ -1,0 +1,15 @@
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\bin\Debug\net6.0\P3ReturnTypeErick.exe
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\bin\Debug\net6.0\P3ReturnTypeErick.deps.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\bin\Debug\net6.0\P3ReturnTypeErick.runtimeconfig.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\bin\Debug\net6.0\P3ReturnTypeErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\bin\Debug\net6.0\ref\P3ReturnTypeErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\bin\Debug\net6.0\P3ReturnTypeErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.csproj.AssemblyReference.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.AssemblyInfoInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.AssemblyInfo.cs
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.csproj.CoreCompileInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\ref\P3ReturnTypeErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P3ReturnTypeErick\obj\Debug\net6.0\P3ReturnTypeErick.genruntimeconfig.cache

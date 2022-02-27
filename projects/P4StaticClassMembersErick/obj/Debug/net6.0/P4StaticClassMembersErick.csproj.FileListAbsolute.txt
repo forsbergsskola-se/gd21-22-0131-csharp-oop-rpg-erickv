@@ -1,0 +1,15 @@
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\bin\Debug\net6.0\P4StaticClassMembersErick.exe
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\bin\Debug\net6.0\P4StaticClassMembersErick.deps.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\bin\Debug\net6.0\P4StaticClassMembersErick.runtimeconfig.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\bin\Debug\net6.0\P4StaticClassMembersErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\bin\Debug\net6.0\ref\P4StaticClassMembersErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\bin\Debug\net6.0\P4StaticClassMembersErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.csproj.AssemblyReference.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.AssemblyInfoInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.AssemblyInfo.cs
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.csproj.CoreCompileInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\ref\P4StaticClassMembersErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P4StaticClassMembersErick\obj\Debug\net6.0\P4StaticClassMembersErick.genruntimeconfig.cache

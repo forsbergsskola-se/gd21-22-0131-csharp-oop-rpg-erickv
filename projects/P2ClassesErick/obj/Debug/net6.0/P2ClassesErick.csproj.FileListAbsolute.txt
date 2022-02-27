@@ -1,0 +1,15 @@
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.csproj.AssemblyReference.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.AssemblyInfoInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.AssemblyInfo.cs
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.csproj.CoreCompileInputs.cache
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\bin\Debug\net6.0\P2ClassesErick.exe
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\bin\Debug\net6.0\P2ClassesErick.deps.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\bin\Debug\net6.0\P2ClassesErick.runtimeconfig.json
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\bin\Debug\net6.0\P2ClassesErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\bin\Debug\net6.0\ref\P2ClassesErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\bin\Debug\net6.0\P2ClassesErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\ref\P2ClassesErick.dll
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.pdb
+C:\Users\Suber\Projects\gd21-22-0131-csharp-oop-rpg-erickv\projects\P2ClassesErick\obj\Debug\net6.0\P2ClassesErick.genruntimeconfig.cache
